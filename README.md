@@ -3,6 +3,8 @@
 Cybersecurity enthusiast driven by curiosity and a passion for solving intricate security puzzles through practical, real-world projects. My work spans vulnerability assessment, threat hunting, and incident response, reflecting my commitment to staying ahead in the dynamic cybersecurity field. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
+## Projects (WIP)
+<!--
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/maximaschenbrenner/vulnerability-management-program)**
@@ -11,7 +13,7 @@ Cybersecurity enthusiast driven by curiosity and a passion for solving intricate
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/maximaschenbrenner/threat-hunting-scenario-tor)**
-
+-->
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
